@@ -1,5 +1,5 @@
 {
-  "name": "ssr-benchmarks",
+  "name": "ssr-cssinjs-benchmarks",
   "version": "0.0.1",
   "description": "Repo to test performance of various SSR approaches",
   "main": "index.js",
@@ -13,7 +13,7 @@
     "preact",
     "htm"
   ],
-  "author": "Jacky Efendi",
+  "author": "Daniil Petrov",
   "license": "MIT",
   "dependencies": {
     "chalk": "^3.0.0"
