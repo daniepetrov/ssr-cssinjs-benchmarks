@@ -2,9 +2,9 @@
 
 > Want to see the results? Go straight to [result.md](./result.md)
 
-Benchmarks of various approaches to SSR:
-- ✅ react-ssr (using `react-dom`)
+Benchmarks of various approaches to SSR CSS-in-JS:
 - ✅ react-ssr-styled (using `react-dom`)
+- ✅ react-ssr-emotion (using `react-dom`)
 - ✅ react-ssr-xstyled (using `react-dom`)
 - ✅ react-ssr-linaria (using `react-dom`)
 
